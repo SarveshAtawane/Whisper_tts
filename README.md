@@ -22,9 +22,9 @@ reference - https://github.com/collabora/WhisperSpeech
 
     You can add the reference audio from a drive download link to create a more personalized transcriptions or a  pass a direct audio file path.
     - voice with cloning
+        https://github.com/user-attachments/assets/fa4bc138-e17a-4e1c-a88a-8dd5f37e0db4
 
-        <audio controls src="output_with_cloning.mp3" title="Title"></audio>
-    
+
     - output without cloning
-        
-        <audio controls src="output_without_cloning.mp3" title="Title"></audio>
+        https://github.com/user-attachments/assets/1bb4ee27-3730-4cca-85f0-f72629d7c640
+
